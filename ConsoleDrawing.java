@@ -17,7 +17,7 @@ package Opdracht_S;
 	        Triangle myTriangle = new Triangle(15, 7);
 	        System.out.println(myTriangle);
 	        
-	      
+	        System.out.println(myTriangle);
 
 
 //	        System.out.println();
